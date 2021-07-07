@@ -1,0 +1,24 @@
+[
+	{
+		 "title": "robots",
+		 "path":"videos/robots.mp4",
+		 "width": 640,
+		 "height": 360,
+		 "start": 49,
+		 "stop": 50,
+		 "x": 50,
+		 "y": 50,
+
+	},
+	{
+		 "title": "wheat",
+		 "path":"videos/wheat.mp4",
+		 "width": 640,
+		 "height": 360,
+		 "start": 51,
+		 "stop": 52,
+		 "x": 50,
+		 "y": 450,
+
+	}
+]
